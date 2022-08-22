@@ -21,7 +21,7 @@ Su objetivo no es mas que el aprendisaje y practica de herramientas que nos pued
 Si, Puedes probarlo en linea haciendo click [aqui](https://carlosorellana00.github.io/Imagen-de-Efecto-Flotante/)
 
 ## ¿Cómo puedo probarlo de manera local en mi equipo?
-puede copiarse directamente desde git a traves de comando o descargarse en un archivo Zip, el proyecto no requiere de ningun servicio de servidor apra correrse
+puede copiarse directamente desde git a traves de comando o descargarse en un archivo Zip, el proyecto no requiere de ningun servicio de servidor para correrse
 de manera local en una computadora.
 
 ## Modo de uso
